@@ -21,3 +21,50 @@ public class SampleProject {
     }
     
 }
+/*
+ * To change this license header, choose License Headers in Project Properties.
+ * To change this template file, choose Tools | Templates
+ * and open the template in the editor.
+ */
+package sample.project2;
+
+/**
+ *
+ * @author kushnara.s
+ */
+public class SampleProject {
+
+    /**
+     * @param args the command line arguments
+     */
+    public static void main(String[] args) {
+        // TODO code application logic here
+        
+        System.out.println("Welcome to Git/Github lab!");
+    }
+    
+}
+/*
+ * To change this license header, choose License Headers in Project Properties.
+ * To change this template file, choose Tools | Templates
+ * and open the template in the editor.
+ */
+package sample.project;
+
+/**
+ *
+ * @author kushnara.s
+ */
+public class SampleProject {
+
+    /**
+     * @param args the command line arguments
+     */
+    public static void main(String[] args) {
+        // TODO code application logic here
+        
+        System.out.println("Welcome to Git/Github lab!");
+    }
+    
+}
+
